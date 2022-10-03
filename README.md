@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [**HERE**](https://github.com/manishk4514)
 
-- 💬 Ask me about **DSA, Java, C++,HTML ,JS ,CSS ,React.Js**
+- 💬 Ask me about **DSA, Java ,HTML ,JS ,CSS ,React.Js**
 
 - 📫 You can reach me by [**MY-GMAIL**](mailto:manish80842@gmail.com)
 
