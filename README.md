@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" alt="handWaving" height="30" width="30" />, I'm MANISH KUMAR </h1>
+<h1 align="center">Hi 👋, I'm MANISH KUMAR </h1>
 <h3 align="center">Currently Doing Hands On Practice on Data Structures and Algorithms & At the Same time I am building some Projects in Web Development & also trying a little bit of Competitive Programming .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk4514&label=Profile%20views&color=0e75b6&style=flat" alt="manishk4514" /> </p>
 
